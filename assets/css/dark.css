@@ -1866,8 +1866,10 @@ span:hover {
   cursor: pointer;
 }
 
-.navbar .logo {
-  width: 50px;
+.navbar .logo img {
+  width: 150px;
+  height: auto;
+  padding-top: 5px;
 }
 
 .nav-scroll {

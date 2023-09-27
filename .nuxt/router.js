@@ -5,6 +5,7 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _70a5fceb = () => interopDefault(import('..\\pages\\index1.vue' /* webpackChunkName: "pages/index1" */))
+const _5fa26422 = () => interopDefault(import('..\\pages\\indexmain.vue' /* webpackChunkName: "pages/indexmain" */))
 const _01feb1a7 = () => interopDefault(import('..\\pages\\about\\about-dark.vue' /* webpackChunkName: "pages/about/about-dark" */))
 const _5089f596 = () => interopDefault(import('..\\pages\\about\\about-light.vue' /* webpackChunkName: "pages/about/about-light" */))
 const _26e68a4e = () => interopDefault(import('..\\pages\\blog-details\\blog-details-dark.vue' /* webpackChunkName: "pages/blog-details/blog-details-dark" */))
@@ -64,6 +65,10 @@ export const routerOptions = {
     path: "/index1",
     component: _70a5fceb,
     name: "index1"
+  }, {
+    path: "/indexmain",
+    component: _5fa26422,
+    name: "indexmain"
   }, {
     path: "/about/about-dark",
     component: _01feb1a7,

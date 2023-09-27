@@ -40,17 +40,7 @@
                       />
                     </div>
                   </div>
-                  <div class="col-lg-4">
-                    <div class="form-group">
-                      <input
-                        id="form_name"
-                        type="text"
-                        name="name"
-                        placeholder="Name"
-                        required="required"
-                      />
-                    </div>
-                  </div>
+                 
                   <div class="col-12">
                     <div class="form-group">
                       <textarea
@@ -79,6 +69,7 @@
     <div v-if="!noLine" class="line bottom left"></div>
   </section>
 </template>
+
 
 <script>
 export default {

@@ -7,6 +7,13 @@
     "_name": "_70a5fceb"
   },
   {
+    "name": "indexmain",
+    "path": "/indexmain",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\indexmain.vue",
+    "chunkName": "pages/indexmain",
+    "_name": "_5fa26422"
+  },
+  {
     "name": "about-about-dark",
     "path": "/about/about-dark",
     "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\about\\\\about-dark.vue",
